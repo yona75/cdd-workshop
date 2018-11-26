@@ -20,6 +20,6 @@
 
 - review and press *Create environment*
 
-3. open new Terminal window
+3. Open new Terminal window
 
 ![Start](images/c9-new-terminal.png)
