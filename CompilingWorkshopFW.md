@@ -51,3 +51,5 @@ make
 - *build/aws_demos.bin*
 - *build/partitions_example.bin*
 - *build/bootloader/bootloader.bin*
+
+![download bin files from Cloud9](images/cdd-download.png)
