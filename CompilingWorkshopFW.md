@@ -18,7 +18,9 @@ git clone https://github.com/yona75/cdd-workshop
 cp ~/environment/esp/cdd-workshop/tools/aws_config_quick_start/aws_clientcredential.templ \
   ~/environment/esp/cdd-workshop/demos/common/include/aws_clientcredential.h
 ```
-5. Edit the aws_clientcredential.h file to change following values (Please note that clientcredentialWIFI_SECURITY defined without double quotes)
+5. Edit the aws_clientcredential.h file to change following values 
+(Please note that clientcredentialWIFI_SECURITY defined without double quotes)
+Also, the thing name is the number associated with your drink dispenser (e.g. #define clientcredentialIOT_THING_NAME "203">
 
 ```bash
 static const char clientcredentialMQTT_BROKER_ENDPOINT[] = <"Will be provided">;
