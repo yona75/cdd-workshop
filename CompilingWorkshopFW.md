@@ -25,7 +25,7 @@ cp ~/environment/esp/cdd-workshop/tools/aws_config_quick_start/aws_clientcredent
 ```bash
 static const char clientcredentialMQTT_BROKER_ENDPOINT[] = <"Will be provided">;
 #define clientcredentialIOT_THING_NAME <"thing name provided to you individually">
-#define clientcredentialWIFI_SSID       "Condensate"
+#define clientcredentialWIFI_SSID       "Guest"
 #define clientcredentialWIFI_PASSWORD   <"WillBeProvided">
 #define clientcredentialWIFI_SECURITY   eWiFiSecurityWPA2
 ```
